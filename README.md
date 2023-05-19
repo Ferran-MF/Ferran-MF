@@ -32,6 +32,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://github.com/topics/mysql)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/topics/mongodb)
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://github.com/topics/nodejs)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 ### Tecnologías
 [![Kodular](https://img.shields.io/badge/-Kodular-orange?style=flat-square&logo=kodular&logoColor=white)](https://github.com/topics/kodular)  
