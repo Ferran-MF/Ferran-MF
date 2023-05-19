@@ -31,3 +31,34 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-green)](https://github.com/topics/nodejs)
 
 Y alguna más...
+
+<p align="center">
+  <a href="https://github.com/topics/javascript">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
+  </a>
+  <a href="https://github.com/topics/java">
+    <img src="https://img.shields.io/badge/-Java-red" alt="Java">
+  </a>
+  <a href="https://github.com/topics/php">
+    <img src="https://img.shields.io/badge/-PHP-blue" alt="PHP">
+  </a>
+  <a href="https://github.com/topics/kodular">
+    <img src="https://img.shields.io/badge/-Kodular-orange" alt="Kodular">
+  </a>
+  <a href="https://github.com/topics/html">
+    <img src="https://img.shields.io/badge/-HTML-orange" alt="HTML">
+  </a>
+  <a href="https://github.com/topics/css">
+    <img src="https://img.shields.io/badge/-CSS-blue" alt="CSS">
+  </a>
+  <a href="https://github.com/topics/mysql">
+    <img src="https://img.shields.io/badge/-MySQL-blue" alt="MySQL">
+  </a>
+  <a href="https://github.com/topics/mongodb">
+    <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB">
+  </a>
+  <a href="https://github.com/topics/nodejs">
+    <img src="https://img.shields.io/badge/-Node.js-green" alt="Node.js">
+  </a>
+</p>
+
