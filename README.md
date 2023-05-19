@@ -35,7 +35,7 @@
 [![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 ### Tecnologías
-[![Kodular](https://img.shields.io/badge/-Kodular-orange?style=flat-square&logo=kodular&logoColor=white)](https://github.com/topics/kodular)  
+[![Kodular](https://img.shields.io/badge/-Kodular-orange?style=flat-square&logo=kodular&logoColor=white)](https://github.com/topics/kodular) 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
 [![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![Onshape](https://img.shields.io/badge/-Onshape-blue?style=flat-square&logo=onshape&logoColor=white)](https://www.onshape.com/)
