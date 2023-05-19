@@ -20,13 +20,14 @@
 <br/>  
 
 ## Tecnologías:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://github.com/topics/javascript)
+[![Java](https://img.shields.io/badge/-Java-red)](https://github.com/topics/java)
+[![PHP](https://img.shields.io/badge/-PHP-blue)](https://github.com/topics/php)
+[![Kodular](https://img.shields.io/badge/-Kodular-orange)](https://github.com/topics/kodular)
+[![HTML](https://img.shields.io/badge/-HTML-orange)](https://github.com/topics/html)
+[![CSS](https://img.shields.io/badge/-CSS-blue)](https://github.com/topics/css)
+[![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/topics/mysql)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green)](https://github.com/topics/mongodb)
+[![Node.js](https://img.shields.io/badge/-Node.js-green)](https://github.com/topics/nodejs)
 
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-</br>
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
 Y alguna más...
