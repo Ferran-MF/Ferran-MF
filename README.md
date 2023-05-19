@@ -20,18 +20,6 @@
 <br/>  
 
 ## Tecnologías:
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://github.com/topics/javascript)
-[![Java](https://img.shields.io/badge/-Java-red)](https://github.com/topics/java)
-[![PHP](https://img.shields.io/badge/-PHP-blue)](https://github.com/topics/php)
-[![Kodular](https://img.shields.io/badge/-Kodular-orange)](https://github.com/topics/kodular)
-[![HTML](https://img.shields.io/badge/-HTML-orange)](https://github.com/topics/html)
-[![CSS](https://img.shields.io/badge/-CSS-blue)](https://github.com/topics/css)
-[![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://github.com/topics/mysql)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green)](https://github.com/topics/mongodb)
-[![Node.js](https://img.shields.io/badge/-Node.js-green)](https://github.com/topics/nodejs)
-
-Y alguna más...
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/topics/javascript)
 [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://github.com/topics/java)
 [![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)](https://github.com/topics/php)
@@ -41,5 +29,8 @@ Y alguna más...
 [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://github.com/topics/mysql)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/topics/mongodb)
 [![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://github.com/topics/nodejs)
+
+Y alguna más...
+
 
 
