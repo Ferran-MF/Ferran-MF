@@ -1,14 +1,14 @@
-<h1 align="center">Hola 👋, mi nombre es Ferran</h1>
-<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma</h3>
+<h1 align="center">Hi 👋, my name is Ferran</h1>
+<h3 align="center">Cross-Platform Application Development Student</h3>
 
 - 🌱 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma**
 
-- 👨‍💻 Todos mis proyectos se encuentran disponibles en [https://github.com/Ferran-MF?tab=repositories](https://github.com/Ferran-MF?tab=repositories)
+- 👨‍💻 All my projects are available at [https://github.com/Ferran-MF?tab=repositories](https://github.com/Ferran-MF?tab=repositories)
 
-- 📫 Contáctame en **ferran.moyanofez@gmail.com**
+- 📫 Contact me at **ferran.moyanofez@gmail.com**
 
 
-## Conecta conmigo
+## Connect with me
 <div>
 <a href="https://github.com/Ferran-MF" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,7 +19,7 @@
 </div>  
 <br/>  
 
-## Tecnologías:
+## Technologies:
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
