@@ -21,26 +21,39 @@
 
 ## Tecnologías:
 
-### Lenguajes
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://github.com/topics/javascript)
-[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)](https://github.com/topics/java)
-[![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)](https://github.com/topics/php)
-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://github.com/topics/html)
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](https://github.com/topics/css)
+### Frontend
+- HTML5: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+- CSS3: ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+- JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- Tailwind CSS: ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+- Bootstrap: ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+- React: ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 
 ### Backend
-[![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)](https://github.com/topics/mysql)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/topics/mongodb)
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)](https://github.com/topics/nodejs)
-[![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
+- Java: ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+- Hibernate: ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+- Kotlin: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+- Spring: ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+- Spring Boot: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
+- Spring Security: ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring-security&logoColor=white)
+- MySQL: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+- PostgreSQL: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+- MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+- MariaDB: ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white)
 
-### Tecnologías
-[![Kodular](https://img.shields.io/badge/-Kodular-orange?style=flat-square&logo=kodular&logoColor=white)](https://github.com/topics/kodular) 
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
-[![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
-[![Onshape](https://img.shields.io/badge/-Onshape-blue?style=flat-square&logo=onshape&logoColor=white)](https://www.onshape.com/)
+### Others
+- Git: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+- GitHub: ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- GitLab: ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
+- Jira: ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+- Trello: ![Trello](https://img.shields.io/badge/Trello-0079BF?logo=trello&logoColor=white)
+- Figma: ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+- Docker: ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+- Amazon AWS: ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white)
 
   
+## My Projects
+
 
 
 
