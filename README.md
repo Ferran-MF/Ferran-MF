@@ -28,7 +28,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-![Android](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Android](https://img.shields.io/badge/android%20studio-346ac1?style=flat-square&logo=android%20studio&logoColor=white)
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
@@ -41,7 +41,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=white)
 
 ### Others
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -55,6 +55,7 @@
   
 ## My Projects
 [>*ERP-Project*](https://gitlab.com/projecterp_grup4/erp_project_grup4)
+
 [>*TopTrail App*](https://gitlab.com/grupo1920138/toptrail)
 
 
