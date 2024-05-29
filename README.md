@@ -61,7 +61,7 @@
 
 [>*TopTrail App*](https://gitlab.com/grupo1920138/toptrail)
 
-[>*Shadow Pursuit](https://github.com/Ferran-MF/ShadowPursuit)
+[>*Shadow Pursuit*](https://github.com/Ferran-MF/ShadowPursuit)
 
 
 
