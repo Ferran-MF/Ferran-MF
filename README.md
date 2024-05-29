@@ -32,7 +32,7 @@
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C#]()
+![C#](https://img.shields.io/badge/Java-007396?logo=c#&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
@@ -45,7 +45,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=white)
 
 ### Others
-![Unity]()
+![Unity](https://img.shields.io/badge/Java-007396?logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
