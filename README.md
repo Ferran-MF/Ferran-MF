@@ -45,7 +45,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=white)
 
 ### Others
-![Unity](https://img.shields.io/badge/Unity-007396?logo=unity&logoColor=white)
+![Unity](https://github.com/matthiaszarzecki/MadeWithUnityBadges)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
