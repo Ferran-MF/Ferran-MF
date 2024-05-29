@@ -31,8 +31,8 @@
 ![Android](https://img.shields.io/badge/Android%20studio-346ac1?style=flat-square&logo=android%20studio&logoColor=white)
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C#-007396?logo=c#&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/CSharp-853688?logo=csharp&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
@@ -41,11 +41,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-blue?style=flat-square&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-blue?logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?logo=firebase&logoColor=white)
 
 ### Others
-![Unity](https://github.com/matthiaszarzecki/MadeWithUnityBadges)
+![Unity](https://img.shields.io/badge/Unity-a08021?logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
