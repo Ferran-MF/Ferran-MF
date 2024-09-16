@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Ferran</h1>
 <h3 align="center">Cross-Platform Application Development Student</h3>
 
-- 🌱 Actually studying **Cross-Platform Application Development**
+- **Cross-Platform Application Development**
 
 - 👨‍💻 All my projects are available at [https://github.com/Ferran-MF?tab=repositories](https://github.com/Ferran-MF?tab=repositories)
 
